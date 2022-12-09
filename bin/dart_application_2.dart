@@ -1,3 +1,3 @@
 void main() {
-  String a = 'Flutter';
+  print('object');
 }
